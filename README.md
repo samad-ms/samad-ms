@@ -49,13 +49,10 @@
 <div align="center">
   <h2>Socials</h2>
   
-  <a href="https://www.linkedin.com/in/abdul-samad/"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://twitter.com/abdul_samad"><img src="https://cdn-icons-png.flaticon.com/128/3991/3991746.png" alt="Twitter" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://medium.com/@abdul_samad"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" alt="Medium" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://leetcode.com/abdul-samad/"><img src="https://cdn.icon-icons.com/icons2/3912/PNG/96/leetcode_logo_icon_247860.png" alt="LeetCode" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://www.instagram.com/abdul_samad/"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" alt="Instagram" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://jovian.com/abdul-samad"><img src="https://jovian.com/jovian_logo.svg" alt="Jovian" width="48" height="48" style="margin-right: 10px;"></a>
-  <a href="https://abdul-samad.pages.dev/"><img src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://www.linkedin.com/in/abdul-samad-86b158243/"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://discord.com/channels/@me"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" alt="Discord" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://leetcode.com/u/abdulsamad3775/"><img src="https://cdn.icon-icons.com/icons2/3912/PNG/96/leetcode_logo_icon_247860.png" alt="LeetCode" width="48" height="48" style="margin-right: 10px;"></a>
+  <a href="https://www.instagram.com/samaddhh/"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782335.png" alt="Instagram" width="48" height="48" style="margin-right: 10px;"></a>
 </div>
 
 
