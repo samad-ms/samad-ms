@@ -33,9 +33,7 @@
  
   **Frameworks**: `Langchain` `Flask` `Fastapi` 
   
-  **Tools**: `Mlflow` `Git` `Docker` `Dagshub` `CI/CD` `Huggingface spaces` `DVC`
- 
-  **Misc**: `Notion` `Gitbook` 
+  **Tools**: `Mlflow` `Git` `Docker` `Dagshub` `CI/CD` `Huggingface spaces` `DVC` `hydra` 
 
 <hr>
 
