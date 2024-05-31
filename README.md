@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&duration=4000&pause=900&color=E036F7&width=435&lines=ML+Engineer++;AI+Developer;NLP+Enthusiast;Deep+Learning+Enthusiast+;Clean+Code+Evangelist" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <img src="" alt="Image Description">
+  <img src="https://drive.google.com/file/d/1W1t1wYEaf8SBVsg9lIouOR6j3yZYzUBr/view?usp=sharing" alt="Image Description">
 </p>
 
 <div align="center">
