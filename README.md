@@ -36,11 +36,6 @@
   **Tools**: `Mlflow` `Git` `Docker` `Dagshub` `CI/CD` `Huggingface spaces` `DVC` `hydra` 
 
 <hr>
-
- <center>
- <h5><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</h5>
- <a href=""><img alt="Abdul Samad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Samad&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
- </center>
 <hr>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; box-sizing: border-box;">
