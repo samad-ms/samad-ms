@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&duration=4000&pause=900&color=E036F7&width=435&lines=ML+Engineer++;AI+Developer;NLP+Enthusiast;Deep+Learning+Enthusiast+;Clean+Code+Evangelist" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
+  <img src="" alt="Image Description">
 </p>
 
 <div align="center">
@@ -20,9 +20,9 @@
 
 # 💫 About Me:
 
-<h5>🖥️ I'm presently working as a Machine Learning Engineer at <a href='https://brototype.com/'> BrotoType.</a><br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
-📬 How to reach me: <a href="mailto:samad.developer@gmail.com">samad.developer@gmail.com</a><br>
-Portfolio:<a href='https://abdul-samad.pages.dev/'>visit here</a>
+<h5>🖥️ I'm presently working as a Machine Learning intern at <a href='https://brototype.com/'> BrotoType.</a><br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
+📬 How to reach me: <a href="mailto:samad.developer@gmail.com">samad.developer1@gmail.com</a><br>
+<!-- Portfolio:<a href='https://abdul-samad.pages.dev/'>visit here</a> -->
 </h5>
 
 
@@ -30,17 +30,17 @@ Portfolio:<a href='https://abdul-samad.pages.dev/'>visit here</a>
 <div align="">
   <h2 align="center">💻 Toolbox:</h2>
 
-  **Programming Languages**: `Python` `C`
+  **Programming Languages**: `Python` `C` `Java`
  
   **Frontend**: `HTML5` `CSS` `Bootstrap` `Gradio` `Streamlit` `Chainlit` 
  
   **Libraries**: `Numpy` `Pandas` `scikit-learn` `Matplotlib` `SpaCy` `Pytorch` `Tensorflow`
  
-  **Frameworks**: `Django` `Langchain` `Flask` `Fastapi` 
+  **Frameworks**: `Langchain` `Flask` `Fastapi` 
   
-  **Tools**: `Mlflow` `Git` `Docker` `Dagshub` `CI/CD` `Huggingface spaces`
+  **Tools**: `Mlflow` `Git` `Docker` `Dagshub` `CI/CD` `Huggingface spaces` `DVC`
  
-  **Misc**: `Notion` `Gitbook` `Figma` 
+  **Misc**: `Notion` `Gitbook` 
 
 <hr>
 
