@@ -37,19 +37,6 @@
 
 <hr>
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px; box-sizing: border-box; display: flex; flex-direction: column;">
-    <h2>🔥 Streak Stats</h2>
-   <a><img alt="Abdul Samad's streak" src="https://streak-stats.demolab.com?user=Abdul-Samad&theme=tokyonight-duo&border_radius=3.4"/></a> 
-  </div>
-
-  <div style="flex: 1; padding: 10px; box-sizing: border-box; display: flex; flex-direction: column;">
-       <h2>📊GitHub Profile Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Samad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Samad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
-</div>
  <center>
  <h5><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level</h5>
  <a href=""><img alt="Abdul Samad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Samad&bg_color=1F222E&color=ad73e7&line=a25bc8&point=e8e8e8&area=true&hide_border=true" /></a>
