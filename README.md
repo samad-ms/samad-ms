@@ -13,11 +13,6 @@
   <img src="https://github.com/samad-ms/Personal_Website/blob/main/images/ml22.gif" alt="Image Description">
 </p>
 
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/Abdul-Samad?style=social)  <img src="https://visitcount.itsvg.in/api?id=Abdul-Samad&icon=5&color=11" alt="Profile Views" />
-</div>
-
 # 💫 About Me:
 
 <h5>🖥️ I'm presently working as a Machine Learning intern at <a href='https://brototype.com/'> BrotoType.</a><br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
