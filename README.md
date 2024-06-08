@@ -49,7 +49,7 @@
 <div align="center">
   <h2>Socials</h2>
   
-  <a href="https://abduls-organization-13.gitbook.io/abduls-portfolio"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
+<a href="https://abduls-organization-13.gitbook.io/abduls-portfolio"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Portfolio" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="https://www.linkedin.com/in/abdul-samad-86b158243/"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="https://discordapp.com/users/abdulsamad#6310"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" alt="Discord" width="48" height="48" style="margin-right: 10px;"></a>
   <a href="https://leetcode.com/u/abdulsamad3775/"><img src="https://cdn.icon-icons.com/icons2/3912/PNG/96/leetcode_logo_icon_247860.png" alt="LeetCode" width="48" height="48" style="margin-right: 10px;"></a>
