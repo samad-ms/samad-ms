@@ -13,12 +13,11 @@
   <img src="https://github.com/samad-ms/Personal_Website/blob/main/images/ml22.gif" alt="Image Description">
 </p>
 
-# 💫 About Me:
+# 💫 About Me: <a href='https://abduls-organization-13.gitbook.io/abduls-portfolio'>Portfolio</a><br>
 
 <h5>🖥️ I'm presently working as a Machine Learning intern at <a href='https://brototype.com/'> BrotoType.</a><br>
   🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>
   🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
-  <a href='https://abduls-organization-13.gitbook.io/abduls-portfolio'>Portfolio</a><br>
 📬 How to reach me: <a href="mailto:samad.developer@gmail.com">samad.developer1@gmail.com</a><br>
 </h5>
 
