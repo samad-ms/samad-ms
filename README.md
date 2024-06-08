@@ -17,7 +17,7 @@
 
 <h5>🖥️ I'm presently working as a Machine Learning intern at <a href='https://brototype.com/'> BrotoType.</a><br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Exploring MLOps, LLMs, Gen AI, and advanced NLP & DL stuffs.<br>
 📬 How to reach me: <a href="mailto:samad.developer@gmail.com">samad.developer1@gmail.com</a><br>
-Portfolio:<a href='https://abduls-organization-13.gitbook.io/abduls-portfolio'>visit here</a>
+  Portfolio:<a href='https://abduls-organization-13.gitbook.io/abduls-portfolio'>visit here</a>
 </h5>
 
 
